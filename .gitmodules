@@ -4,3 +4,6 @@
 [submodule "mobileapp"]
 	path = mobileapp
 	url = https://github.com/Spyy004/hackthebronxdigiqMobile
+[submodule "digiQ"]
+	path = digiQ
+	url = https://github.com/sanial2001/digiQ
