@@ -1,3 +1,6 @@
 [submodule "webfrontend"]
 	path = webfrontend
 	url = https://github.com/shubhamjain1922/digiQ
+[submodule "mobileapp"]
+	path = mobileapp
+	url = https://github.com/Spyy004/hackthebronxdigiqMobile
